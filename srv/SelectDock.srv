@@ -1,0 +1,9 @@
+# activate=false releases ONLY the matching acquisition (cannot cancel a newer one).
+bool activate
+string dock_id
+string acquisition_id
+---
+bool success
+string message
+string dock_id
+string acquisition_id
