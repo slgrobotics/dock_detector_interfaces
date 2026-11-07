@@ -23,6 +23,11 @@ was seen and when. Each search also gets its own unique label, so an old report
 from an earlier search cannot be mistaken for a new one. This package defines
 the messages; the other packages do the looking and driving.
 
+**Related packages and data:**
+- https://github.com/slgrobotics/dock_detector
+- https://github.com/slgrobotics/dock_detector_nav2
+- https://github.com/slgrobotics/dock_detector/tree/main/media
+
 ## DockDetection message
 
 DockDetection contains a timestamped Nav2-convention parking pose, dock_id and
