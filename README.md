@@ -6,13 +6,13 @@ Back to [Main Project Home](https://github.com/slgrobotics/articubot_one/wiki)
 
 **Contents:**
 
-- [What is this dock_detector_interfaces package for?](#what-is-this-dock_detector_interfaces-package-for)
+- [What is this package for?](#what-is-this-package-for)
 - [DockDetection message](#dockdetection-message)
 - [SelectDock service](#selectdock-service)
 
 -------------
 
-## What is this dock_detector_interfaces package for?
+## What is this package for?
 
 The dock detector and the robot's navigation software need to exchange clear
 messages. This package defines the forms they use, much like agreeing on what
